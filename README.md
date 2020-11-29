@@ -7,3 +7,4 @@ Hi, I'm Igor, studing at [School 21](https://21-school.ru/) - Russian campus of 
 - 👯 Looking for trainee position
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litvinovis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
